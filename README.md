@@ -32,6 +32,16 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Nirbhay Kumar</h1>
+<h3 align="center">Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A81C&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Full-Stack+Developer;SQL+%7C+Power+BI+%7C+Spring+Boot+%7C+Java;Learning+Never+Stops!">
+  </a>
+</p>
+
+
 ## 🌟 GitHub Profile Summary Card  
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirbhay266&theme=radical)](https://github.com/nirbhay266)  
