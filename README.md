@@ -32,6 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=nirbhay266&theme=radical&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🏆 Badges & Profile Views  
@@ -42,7 +43,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nirbhay266&theme=radical&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
