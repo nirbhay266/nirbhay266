@@ -17,11 +17,7 @@
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://github.com/nirbhay266/nirbhay266/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
-</p>
 
 ## 🏆 Badges & Profile Views  
 
