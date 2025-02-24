@@ -17,6 +17,12 @@
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://github.com/nirbhay266/nirbhay266/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+</p>
+
 ## 🏆 Badges & Profile Views  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nirbhay266&color=blue)  
@@ -24,9 +30,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/nirbhay266?affiliations=OWNER&style=social)  
 
 ---
-<p align="center">
-  <img src="https://github.com/nirbhay266/nirbhay266/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
-</p>
+
 
 ## 💻 Tech Stack & Tools  
 
@@ -41,8 +45,6 @@
 ---
 
 
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌟 GitHub Profile Summary Card  
