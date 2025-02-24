@@ -8,6 +8,10 @@
 </p>
 
 ---
+## 🌟 GitHub Profile Summary Card  
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirbhay266&theme=radical)](https://github.com/nirbhay266)  
+
 
 ## 📊 GitHub Stats & Contributions  
 
@@ -39,12 +43,6 @@
 ---
 
 
-
-
-
-## 🌟 GitHub Profile Summary Card  
-
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirbhay266&theme=radical)](https://github.com/nirbhay266)  
 
 ---
 
