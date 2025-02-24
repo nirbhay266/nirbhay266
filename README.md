@@ -17,17 +17,6 @@
 
 ---
 
-
-
-## 🏆 Badges & Profile Views  
-
-![Profile Views](https://komarev.com/ghpvc/?username=nirbhay266&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/nirbhay266?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/nirbhay266?affiliations=OWNER&style=social)  
-
----
-
-
 ## 💻 Tech Stack & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -39,6 +28,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ---
+
+
+## 🏆 Badges & Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=nirbhay266&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/nirbhay266?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/nirbhay266?affiliations=OWNER&style=social)  
+
+---
+
 
 
 
