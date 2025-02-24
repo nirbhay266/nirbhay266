@@ -50,6 +50,13 @@
 
 
 
+![GitHub followers](https://img.shields.io/github/followers/nirbhay266?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/nirbhay266?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/nirbhay266?color=blue)
+
+
+
+
 ---
 
 ## 📌 Let's Connect!  
