@@ -1,6 +1,11 @@
-# 👋 Hi there! I'm Nirbhay Kumar  
+<h1 align="center">Hi 👋, I'm Nirbhay Kumar</h1>
+<h3 align="center">Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast</h3>
 
-🚀 **Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast**  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A81C&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Full-Stack+Developer;SQL+%7C+Power+BI+%7C+Spring+Boot+%7C+Java;Learning+Never+Stops!">
+  </a>
+</p>
 
 ---
 
@@ -32,14 +37,11 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Nirbhay Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast</h3>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A81C&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Full-Stack+Developer;SQL+%7C+Power+BI+%7C+Spring+Boot+%7C+Java;Learning+Never+Stops!">
-  </a>
+  <img src="https://github.com/nirbhay266/nirbhay266/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
 </p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌟 GitHub Profile Summary Card  
