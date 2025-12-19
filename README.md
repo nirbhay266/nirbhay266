@@ -81,7 +81,7 @@ I am actively strengthening my data engineering skills with
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nirbhay266/nirbhay266/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/nirbhay266/nirbhay266/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
