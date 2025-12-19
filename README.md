@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">SQL • Power BI • Python • DAX • ETL | Spark • PySpark</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
