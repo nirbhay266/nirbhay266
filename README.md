@@ -62,34 +62,25 @@ I am strengthening my data engineering skills with
 👉 Check repositories for dashboards, DAX logic, and data modeling work.
 
 ---
-
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirbhay266&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhay266&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirbhay266&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay266&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirbhay266&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhay266&theme=radical&hide_border=true" height="165"/>
 </p>
 
----
-
-## 🔗 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirbhay266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.youtube.com/@coding_of_systum">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://www.instagram.com/systum_of_coding/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay266&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-🎯 **Turning data into insights. Insights into decisions.**
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/nirbhay266/nirbhay266/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
